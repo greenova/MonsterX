@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cmn_header",
+    "texture": "c2b8cb3f-a26e-408b-adee-4d3a3d57a674",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      1022,
+      739
+    ],
+    "offset": [
+      -1,
+      5.5
+    ],
+    "originalSize": [
+      1024,
+      752
+    ]
+  }
+}

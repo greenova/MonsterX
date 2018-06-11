@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "譛ｪ蜻ｽ蜷・1",
+    "texture": "2d1feca9-75ad-44b6-ba19-0c1f308fee8d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      336,
+      672
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      336,
+      672
+    ]
+  }
+}

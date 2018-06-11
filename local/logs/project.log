@@ -1,0 +1,457 @@
+2018-06-09T08:27:20.873Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-09T08:27:20.873Z - normal: checking language setting...
+2018-06-09T08:27:20.873Z - normal: Language: en
+2018-06-09T08:27:22.723Z - success: protocol editor-framework registered
+2018-06-09T08:27:22.723Z - success: protocol app registered
+2018-06-09T08:27:22.723Z - success: protocol theme registered
+2018-06-09T08:27:22.723Z - success: protocol packages registered
+2018-06-09T08:27:22.723Z - success: protocol unpack registerred
+2018-06-09T08:27:22.723Z - success: protocol disable-commonjs registerred
+2018-06-09T08:27:25.731Z - normal: failed to connect login server due to request timeout
+2018-06-09T08:27:25.731Z - normal: Check project C:\Users\acer\Downloads\monsterx(1)\monsterx\monsterx
+2018-06-09T08:27:25.731Z - normal: Initializing Cocos2d
+2018-06-09T08:27:25.950Z - normal: Initializing Asset Database
+2018-06-09T08:27:25.981Z - success: protocol uuid registerred
+2018-06-09T08:27:25.981Z - success: protocol db registerred
+2018-06-09T08:27:25.981Z - success: protocol thumbnail registerred
+2018-06-09T08:27:25.981Z - normal: Loading editor/builtin packages
+2018-06-09T08:27:26.012Z - success: anysdk loaded
+2018-06-09T08:27:26.130Z - success: assets loaded
+2018-06-09T08:27:26.130Z - success: builder loaded
+2018-06-09T08:27:26.130Z - success: cocos-analytics loaded
+2018-06-09T08:27:26.130Z - success: console loaded
+2018-06-09T08:27:26.177Z - success: fb-instant-games loaded
+2018-06-09T08:27:26.177Z - success: hierarchy loaded
+2018-06-09T08:27:26.177Z - success: inspector loaded
+2018-06-09T08:27:26.192Z - success: keystore loaded
+2018-06-09T08:27:26.192Z - success: node-library loaded
+2018-06-09T08:27:26.192Z - success: package-asset loaded
+2018-06-09T08:27:26.192Z - success: preferences loaded
+2018-06-09T08:27:26.192Z - success: project-exporter loaded
+2018-06-09T08:27:26.208Z - success: project-importer loaded
+2018-06-09T08:27:26.208Z - success: project-settings loaded
+2018-06-09T08:27:26.208Z - success: ui-kit loaded
+2018-06-09T08:27:26.208Z - success: ui-grid loaded
+2018-06-09T08:27:26.223Z - success: scene loaded
+2018-06-09T08:27:26.223Z - success: sprite-editor loaded
+2018-06-09T08:27:26.223Z - success: store loaded
+2018-06-09T08:27:26.223Z - success: timeline loaded
+2018-06-09T08:27:26.223Z - normal: Loading builtin packages
+2018-06-09T08:27:26.223Z - success: asset-db-debugger loaded
+2018-06-09T08:27:26.223Z - success: code-editor loaded
+2018-06-09T08:27:26.223Z - success: color-picker loaded
+2018-06-09T08:27:26.239Z - success: package-manager loaded
+2018-06-09T08:27:26.239Z - success: sdkbox loaded
+2018-06-09T08:27:26.239Z - success: tester loaded
+2018-06-09T08:27:26.239Z - success: ui-kit-preview-extra loaded
+2018-06-09T08:27:26.239Z - success: ui-kit-preview loaded
+2018-06-09T08:27:26.239Z - success: ui-tree loaded
+2018-06-09T08:27:27.306Z - normal: Initializing project C:\Users\acer\Downloads\monsterx(1)\monsterx\monsterx
+2018-06-09T08:27:27.306Z - normal: Loading packages
+2018-06-09T08:27:27.321Z - normal: Watching packages
+2018-06-09T08:27:27.603Z - normal: Run Application
+2018-06-09T08:27:28.414Z - success: preview server running at http://localhost:7456
+2018-06-09T08:27:28.446Z - error: { Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\acer\Downloads\monsterx(1)\monsterx\monsterx\temp\quick-scripts\assets'
+    at Object.fs.rmdirSync (fs.js:856:18)
+    at rmkidsSync (D:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:356:25)
+    at rmdirSync (D:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:334:7)
+    at rimrafSync (D:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:304:9)
+    at D:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:342:5
+    at Array.forEach (native)
+    at rmkidsSync (D:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:341:26)
+    at rmdirSync (D:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:334:7)
+    at Function.rimrafSync [as sync] (D:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:304:9)
+    at D:\CocosCreator\resources\app.asar\node_modules\del\index.js:74:10
+  errno: -4051,
+  code: 'ENOTEMPTY',
+  syscall: 'rmdir',
+  path: 'C:\\Users\\acer\\Downloads\\monsterx(1)\\monsterx\\monsterx\\temp\\quick-scripts\\assets' }
+    at Object.init (D:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:3181)
+    at Async.series.e (D:\CocosCreator\resources\app.asar\editor\init.js:1:7995)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:274:29
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at listen (D:\CocosCreator\resources\app.asar\editor\core\preview-server.js:1:4542)
+2018-06-09T08:27:32.942Z - normal: 1.9.1
+2018-06-09T08:27:36.449Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_event_02
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:36.450Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_chaticon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:36.451Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_icon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:36.451Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_box
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:36.452Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_job
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:36.452Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_explo_back
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:43.735Z - error: { Error: connect ETIMEDOUT 211.151.21.150:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '211.151.21.150',
+  port: 443 }
+    at D:\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (D:\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-06-09T08:27:49.365Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_event_02
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:49.366Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_chaticon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:49.366Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_icon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:49.367Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_box
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:49.368Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_job
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:27:49.369Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_explo_back
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:03.571Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_event_02
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:03.573Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_chaticon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:03.574Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_icon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:03.574Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_box
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:03.574Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_job
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:03.577Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_explo_back
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:04.382Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_event_02
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:04.382Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_chaticon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:04.383Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_icon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:04.383Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_box
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:04.384Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_job
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:04.385Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_explo_back
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:06.248Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_event_02
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:06.248Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_chaticon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:06.249Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_icon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:06.250Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_box
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:06.250Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_job
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:06.259Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_explo_back
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:07.615Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_event_02
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:07.615Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_chaticon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:07.616Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_icon
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:07.616Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_box
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:07.617Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_job
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T08:29:07.617Z - error: Rect width exceeds maximum margin: C:/Users/acer/Downloads/monsterx(1)/monsterx/monsterx/assets/resources/textures/BUTTON/button_label.png/cmn_icon_explo_back
+    at Object.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:343:18)
+    at cc_SpriteFrame._checkRect (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:469:16)
+    at textureLoadedCallback (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:292:26)
+    at cc_SpriteFrame._refreshTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:311:17)
+    at cc_SpriteFrame._loadTexture (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:411:18)
+    at cc_SpriteFrame.set [as _textureFilenameSetter] (D:\CocosCreator\resources\engine\cocos2d\core\sprites\CCSpriteFrame.js:74:26)
+    at Object.loadCallback (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:132:41)
+    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:151:38
+    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:298:9)
+2018-06-09T09:09:49.729Z - info: shutdown preview server

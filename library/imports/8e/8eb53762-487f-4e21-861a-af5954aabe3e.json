@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cmn_window.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "window_frame_dummy_all": {
+      "__uuid__": "2a2b7972-b831-49bc-bd7c-ef5c21365ea5"
+    },
+    "red_btn_gray": {
+      "__uuid__": "066eb62f-730b-4c17-a45e-813fa6b06771"
+    },
+    "window_frame_all": {
+      "__uuid__": "ae0061ca-ba31-429a-98ca-6198c5bf0b53"
+    },
+    "window_message_send_l0_0 - 2": {
+      "__uuid__": "8a41479d-1726-4672-9d87-e2af96b552bb"
+    },
+    "large_red_btn_normal_l0_1": {
+      "__uuid__": "42b79274-5911-49a8-98af-5bdf2f058a4b"
+    },
+    "blue_btn_normal_l0_0": {
+      "__uuid__": "0521cc9c-4b38-41ec-a321-ee0ba948fbab"
+    },
+    "label_web_l0_0": {
+      "__uuid__": "d5691596-b84b-4c1e-847b-185056baa77c"
+    },
+    "window_black_base_l0_0": {
+      "__uuid__": "f6196c59-9ab9-41a3-91e0-7da773086541"
+    },
+    "label_check_l0_0": {
+      "__uuid__": "2924b8d4-4dcb-4cf4-ae1d-4a8cc2b2d6b1"
+    },
+    "window_like_input_l0_0": {
+      "__uuid__": "a5a7cc7b-63ef-4c6e-bb02-811cc4a305f3"
+    },
+    "window_bottom_left_l0_0": {
+      "__uuid__": "40a99142-1c4e-49ab-8093-0af8fc60daee"
+    },
+    "large_red_btn_push_l0_2": {
+      "__uuid__": "fbc7a89e-4ba1-473d-a81b-30daeea9dfa9"
+    },
+    "comment_window__whitel0_0": {
+      "__uuid__": "15aeb4e0-1b87-40d6-821d-f3f385aec865"
+    },
+    "message_yes_l0_0": {
+      "__uuid__": "10d56bb2-8d09-445f-9f32-5517e6f6ad80"
+    },
+    "large_red_btn_push_l0_0": {
+      "__uuid__": "c2a48b06-e26d-4ab8-b1d2-2558200a760f"
+    },
+    "large_red_btn_normal_l0_0": {
+      "__uuid__": "37c3bb62-1041-4cac-afbb-b56b0dc04444"
+    },
+    "label_send_l0_0": {
+      "__uuid__": "32a1a2cc-0fe1-4e8b-bab5-012ee236ed26"
+    },
+    "window_top_center_l0_0": {
+      "__uuid__": "49ddd43c-3db7-4c73-a753-02eb70be8744"
+    },
+    "red_btn_select_l0_0": {
+      "__uuid__": "f1fd3ce2-9473-4efb-acf6-556688f48010"
+    },
+    "red_btn_normal_l0_0": {
+      "__uuid__": "95b0ba3e-5660-4bd8-9025-2a537cd31836"
+    },
+    "blue_btn_long_select_l0_0": {
+      "__uuid__": "a2540296-c1f2-4c51-9d12-a6c27ddfcbc2"
+    },
+    "window_top_left_l0_0": {
+      "__uuid__": "8c042ab0-ed9f-4990-a311-6033538848bc"
+    },
+    "window_middle_left_l0_0": {
+      "__uuid__": "aaae92d3-b940-4215-aa0f-1e2a6a09737e"
+    },
+    "window_bottom_right_l0_0": {
+      "__uuid__": "be627d58-9020-47b3-9cf7-6972e0aacb78"
+    },
+    "window_bottom_center_l0_0": {
+      "__uuid__": "c74c7a88-3e51-4acb-815e-8fc5f0883ac2"
+    },
+    "window_message_input_l0_0": {
+      "__uuid__": "e4f539fd-a8ed-48d4-a50e-924dbd7f9b64"
+    },
+    "label_cancel_l0_0": {
+      "__uuid__": "23d4d11d-ee0b-4a86-9c2d-6936711632b2"
+    },
+    "large_red_btn_normal_l0_2": {
+      "__uuid__": "4081204e-fc24-492c-a167-418d8599d6b4"
+    },
+    "window_middle_center_l0_0": {
+      "__uuid__": "2994205e-352f-44a5-8967-59fa4826d413"
+    },
+    "blue_btn_select_l0_0": {
+      "__uuid__": "534ef379-f23f-4cbb-aa72-cc5d9df33199"
+    },
+    "label_message_l0_0": {
+      "__uuid__": "764e0e7a-eb8d-4ba7-b8ee-12021370a7bd"
+    },
+    "large_red_btn_push_l0_1": {
+      "__uuid__": "4eb21420-eb74-424a-9cff-df54cb0176dc"
+    },
+    "label_app_store_l0_0": {
+      "__uuid__": "7923520f-536b-4261-8e73-78d11a84682e"
+    },
+    "window_top_right_l0_0": {
+      "__uuid__": "876f608a-163f-4303-8370-906b081ec73f"
+    },
+    "window_message_update_l0_0": {
+      "__uuid__": "e3b77db5-bf79-4ab4-a530-8d6187c9b3db"
+    },
+    "window_middle_right_l0_0": {
+      "__uuid__": "838c4084-f027-4461-9f40-1478c6d17254"
+    },
+    "blue_btn_long_gray_l0_0": {
+      "__uuid__": "fba94473-8097-48ab-9267-56f721753909"
+    },
+    "label_fix_l0_0": {
+      "__uuid__": "463f0d80-f2de-4e17-b7e7-40d3234d4278"
+    },
+    "blue_btn_long_normal_l0_0": {
+      "__uuid__": "bc797d38-7c70-425b-9328-a0321c54013b"
+    },
+    "message_no_l0_0": {
+      "__uuid__": "1c611e26-8634-4733-af82-cf48080beeaf"
+    },
+    "label_update_l0_0": {
+      "__uuid__": "ffdaecc1-72fc-4777-a4da-080745107089"
+    }
+  }
+}
