@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "createcard",
+    "texture": "8021d69b-aad2-4979-92ac-3eafbeac06c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      419,
+      610
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      419,
+      610
+    ]
+  }
+}

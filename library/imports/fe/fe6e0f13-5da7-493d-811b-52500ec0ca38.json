@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cmn_header.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "scroll_bar_l0_0": {
+      "__uuid__": "dc241105-a631-4f2e-864b-ae92efc00e32"
+    },
+    "scroll_bar_whitel0_0": {
+      "__uuid__": "eb3f1f1f-4c98-4e51-9b3a-2b3a7358f28b"
+    },
+    "window_large_l0_0": {
+      "__uuid__": "1bb401e6-a03e-454e-bae9-de8bc5f543ad"
+    },
+    "window_push_l0_0": {
+      "__uuid__": "5626bee6-2edf-4c19-92ab-047459b04583"
+    },
+    "window_sharp_l0_0": {
+      "__uuid__": "1c216b53-400f-4644-b3a9-95eab32dfbac"
+    },
+    "window_ticker_l0_0": {
+      "__uuid__": "d28f122f-4347-44f0-83d8-ecfd18d8978f"
+    },
+    "word_buy_cp_l0_0": {
+      "__uuid__": "1d75f5d9-3982-498f-992c-f8ad452d071a"
+    },
+    "word_friend_l0_0": {
+      "__uuid__": "1203ab41-f850-413c-b12f-96bfb33ce07e"
+    },
+    "word_input_id_and_pass_l0_0": {
+      "__uuid__": "2bdf520f-4d4c-4b98-a430-44b6070efac4"
+    },
+    "word_invite_l0_0": {
+      "__uuid__": "312d97a7-546a-422e-ab3c-fa27542ee892"
+    },
+    "word_select_belief_l0_0": {
+      "__uuid__": "a0249b4c-abe5-4a27-a14a-db438b4aa746"
+    },
+    "word_your_name_l0_0": {
+      "__uuid__": "48b847ce-919e-42d2-9be3-c6b3d4c2ca91"
+    }
+  }
+}

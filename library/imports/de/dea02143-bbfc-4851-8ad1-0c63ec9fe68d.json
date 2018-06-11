@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "button_label.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "cmn_icon_back_new": {
+      "__uuid__": "4fa7e346-7af6-4fe1-8b2c-66c158b19057"
+    },
+    "cmn_icon_event_02": {
+      "__uuid__": "1ccfeba0-77a8-4970-b637-219f290e7501"
+    },
+    "cmn_icon_event_01": {
+      "__uuid__": "d44a7e8a-7149-4a78-b77d-e337ea365a50"
+    },
+    "cmn_icon_chaticon": {
+      "__uuid__": "25b29c8f-38b7-4891-a775-84bde84cd5fb"
+    },
+    "cmn_icon_icon": {
+      "__uuid__": "574331b7-c4cc-46d1-b74a-c6d2519f9e2d"
+    },
+    "cmn_icon_box": {
+      "__uuid__": "286a0167-e989-4226-8af6-3308ca83eb25"
+    },
+    "cmn_icon_job": {
+      "__uuid__": "0dd100e5-4042-4009-951a-5e52bd052c12"
+    },
+    "cmn_icon_battle_vs": {
+      "__uuid__": "c0ca547c-19ca-455d-a0b3-2db6eb9d76c2"
+    },
+    "cmn_icon_story": {
+      "__uuid__": "ffa295f9-9859-411d-b81e-ff9c64803a6f"
+    },
+    "cmn_icon_chat": {
+      "__uuid__": "f7bc653b-c42f-4cde-bde4-caf1499eb524"
+    },
+    "cmn_icon_deck": {
+      "__uuid__": "189a58cf-509e-4ab8-bdd7-86a4d792791b"
+    },
+    "cmn_icon_compound": {
+      "__uuid__": "789a4d17-c407-4b82-af44-0b77e21f1c5d"
+    },
+    "cmn_icon_friend_01": {
+      "__uuid__": "5bc933ff-ab2c-43ae-9c2d-204637a9ed1a"
+    },
+    "cmn_icon_battlebattle": {
+      "__uuid__": "ed87b9b3-b70e-407a-8d59-78313c845615"
+    },
+    "cmn_icon_explo_back": {
+      "__uuid__": "dc6f0516-4faa-4dbb-a6f2-c2f0de9c672f"
+    },
+    "cmn_icon_explo": {
+      "__uuid__": "b076bc62-e72b-47c4-8b52-ce491817f667"
+    },
+    "cmn_icon_party": {
+      "__uuid__": "10749d42-e12f-4699-8a78-549f2e0c24b7"
+    },
+    "cmn_icon_base": {
+      "__uuid__": "ae8a4b24-fd78-4720-9bcd-2241746fa05c"
+    },
+    "cmn_icon_menu": {
+      "__uuid__": "bf81a8df-7de9-4f0a-a7f8-f97c80dcc56f"
+    },
+    "cmn_icon_shop": {
+      "__uuid__": "7ca5b1ba-c0fb-406a-bdae-8b631717faf4"
+    },
+    "cmn_icon_gacha": {
+      "__uuid__": "f9260781-8b44-4780-82b0-721c8a1695ff"
+    },
+    "item_label": {
+      "__uuid__": "2d887f18-3616-4f13-90e0-9f4a28754048"
+    }
+  }
+}

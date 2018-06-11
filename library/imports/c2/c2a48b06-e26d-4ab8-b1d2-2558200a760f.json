@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "large_red_btn_push_l0_0",
+    "texture": "4dfafa8f-625c-44ad-a731-2e99fe9a3187",
+    "atlas": "8eb53762-487f-4e21-861a-af5954aabe3e",
+    "rect": [
+      288,
+      96,
+      48,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      96
+    ]
+  }
+}

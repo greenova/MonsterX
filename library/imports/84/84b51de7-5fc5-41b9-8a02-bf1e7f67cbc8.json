@@ -1,0 +1,182 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "1000_common_button_.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dummy_black": {
+      "__uuid__": "bc3beef6-17c7-4f07-8196-64982696ca3d"
+    },
+    "dummy_white": {
+      "__uuid__": "4c4ebafe-0afe-4f31-8f67-04a72ae06123"
+    },
+    "white_line_overay": {
+      "__uuid__": "00e229d9-f910-4b3a-a121-987027846ceb"
+    },
+    "guild_alert_ef_06": {
+      "__uuid__": "f241c17a-a1bf-4593-9679-0d8d3016877a"
+    },
+    "guild_alert_ef_05": {
+      "__uuid__": "78680928-9b54-4815-ac71-b0ce7d24533f"
+    },
+    "guild_alert_ef_04": {
+      "__uuid__": "554933f0-7b01-4ba5-82b4-50dccc4ad218"
+    },
+    "guild_alert_ef_03": {
+      "__uuid__": "32092336-2ecb-4aea-9afb-71c056f91555"
+    },
+    "guild_alert_ef_02": {
+      "__uuid__": "849e9bf5-cd34-445a-aa7c-49584256facc"
+    },
+    "guild_alert_ef_01": {
+      "__uuid__": "0247f105-a722-4128-92ed-ce105545a0ff"
+    },
+    "enemy_icon_01": {
+      "__uuid__": "25372b23-5552-4733-8b98-8710b573c99d"
+    },
+    "cmn_red_action_02": {
+      "__uuid__": "4d78dac5-a565-4175-ae31-8178b44876bd"
+    },
+    "cmn_red_action_01": {
+      "__uuid__": "131b689d-11b2-49db-8285-1df98e12a73a"
+    },
+    "dummy_alpha": {
+      "__uuid__": "06b79af8-8519-4ebd-824d-39695c5fd361"
+    },
+    "mm_finger_01": {
+      "__uuid__": "e10b866b-4635-4451-840b-b3fe6cd5d210"
+    },
+    "mm_info_notice_01": {
+      "__uuid__": "d0b60a94-d340-4477-9b04-c564aa044538"
+    },
+    "res_circle_center": {
+      "__uuid__": "4293500b-3faf-4074-aed6-630ffa3b8838"
+    },
+    "res_circle_right": {
+      "__uuid__": "7a07028b-c94f-4e19-98da-6eacacdca574"
+    },
+    "res_circle_left": {
+      "__uuid__": "6f89cce5-0eb0-4a76-addf-1b656ae887b5"
+    },
+    "res_circle_new": {
+      "__uuid__": "d7c0494b-a3de-4952-b332-8cac77503970"
+    },
+    "cmn_gacha_slot": {
+      "__uuid__": "062dc375-ae26-4993-a3d0-fbd50af01669"
+    },
+    "cmn_gacha_point": {
+      "__uuid__": "50e29c2d-80f9-45f5-bba9-320c90245d81"
+    },
+    "cmn_icon_back": {
+      "__uuid__": "f93b37a8-57ea-4523-bb20-005b0c4242d9"
+    },
+    "cmn_button_redbig_n": {
+      "__uuid__": "a81566ec-febf-4789-8cba-784aecd62e9c"
+    },
+    "cmn_button_redbig_p": {
+      "__uuid__": "8f746684-d70c-4d53-bf47-8bb26b60027a"
+    },
+    "cmn_button_grayout_n": {
+      "__uuid__": "756947db-428f-4a62-b4f3-2a974a1ed957"
+    },
+    "cmn_button_yellow_n": {
+      "__uuid__": "9834699c-f3ef-4577-935f-7bc17b548e1b"
+    },
+    "cmn_button_yellow_p": {
+      "__uuid__": "a65810e4-afc5-4ab1-adf8-1e79166df170"
+    },
+    "cmn_button_gray_n": {
+      "__uuid__": "bdb47827-10f8-4d17-952d-cc868931b936"
+    },
+    "cmn_button_gray_p": {
+      "__uuid__": "7a6b00cb-1cc9-4100-8cd4-16c41fa0f105"
+    },
+    "cmn_button_green_n": {
+      "__uuid__": "7207eb41-0524-4ad7-afa7-111fef86ea90"
+    },
+    "cmn_button_green_p": {
+      "__uuid__": "9cfa2dfb-c294-442c-a967-620ae26004e0"
+    },
+    "cmn_button_blue_n": {
+      "__uuid__": "89bce7ba-7dfc-4132-9614-8e56f38595ff"
+    },
+    "cmn_button_blue_p": {
+      "__uuid__": "04cdec87-adee-4918-bdba-ee35e9ce031a"
+    },
+    "cmn_button_orange_n": {
+      "__uuid__": "d8b22670-c1b7-4c0f-894c-91eef09834fb"
+    },
+    "cmn_button_orange_p": {
+      "__uuid__": "3ef7443f-2f88-4b9d-87dd-e9e14ca4d016"
+    },
+    "cmn_button_red_n": {
+      "__uuid__": "a90dcb13-e0a4-42c6-8629-3d84d4838ead"
+    },
+    "cmn_button_red_p": {
+      "__uuid__": "77c03bfa-1a09-4ce2-84af-f7f682167f49"
+    },
+    "cmn_status_menu": {
+      "__uuid__": "e4e8df03-dfd7-4bfc-925d-df60acd9ce28"
+    },
+    "cmn_menu_frame_p": {
+      "__uuid__": "93110452-177f-418e-bcf1-515fbbb1a479"
+    },
+    "cmn_menu_frame_n": {
+      "__uuid__": "378cf497-0653-4222-8383-e3f2aace5a81"
+    },
+    "cmn_status_card": {
+      "__uuid__": "65a1e3ca-7dab-48fb-b4b9-3b08c3361498"
+    },
+    "cmn_status_friend": {
+      "__uuid__": "450957d6-bf8d-486a-8108-c03bcdefcde5"
+    },
+    "cmn_status_frame_n": {
+      "__uuid__": "3c0e9412-ded4-4c4e-82fa-cebfd040b372"
+    },
+    "cmn_status_frame_p": {
+      "__uuid__": "26e3bdb0-0595-4305-8fe3-f1237578b8f2"
+    },
+    "cmn_status_level_frame": {
+      "__uuid__": "704672c2-274e-4e04-a1cd-74b6d3354f9e"
+    },
+    "status_bc_bar": {
+      "__uuid__": "5089650c-1254-49a5-a0dd-2689192cd8e5"
+    },
+    "status_bc": {
+      "__uuid__": "476cd200-6081-42f1-8dd2-53d9614c5765"
+    },
+    "status_ap_sign_glow": {
+      "__uuid__": "aefe1851-6980-443a-a7c0-69445464c578"
+    },
+    "status_ap_sign_line": {
+      "__uuid__": "fe5bb155-16bd-4976-9cc5-3e0b1a45f112"
+    },
+    "status_ap_bar": {
+      "__uuid__": "01776d94-7ed9-45a0-bcdc-ed67bdd48972"
+    },
+    "status_ap": {
+      "__uuid__": "09fdd555-2fe3-4fc5-8bbb-8f822e018cdf"
+    },
+    "sample_red": {
+      "__uuid__": "42e33f2c-65a0-4be7-bf37-89db9adb8cdf"
+    },
+    "sample_red_button": {
+      "__uuid__": "ac5db52b-3a04-470d-b894-05f1d8596812"
+    },
+    "cmn_icon_item": {
+      "__uuid__": "ed03ee38-3036-41c4-82d0-5d98272f5a38"
+    },
+    "cmn_item_text": {
+      "__uuid__": "68d7aa2e-e9e0-4228-bc59-4ca605acb1c1"
+    },
+    "ｍessage_1": {
+      "__uuid__": "b6989c4f-23e5-4b7b-aa3f-c060879d96e7"
+    },
+    "ｍessage_2": {
+      "__uuid__": "5f808b84-29fd-4b6a-8cea-01b90fa5552e"
+    },
+    "Bonus": {
+      "__uuid__": "f3144378-ea9d-454c-80fe-da184cd4b73e"
+    }
+  }
+}

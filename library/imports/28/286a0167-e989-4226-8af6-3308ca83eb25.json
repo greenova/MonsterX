@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cmn_icon_box",
+    "texture": "e7a9eabc-4cd4-46cc-891c-e257b9515c43",
+    "atlas": "dea02143-bbfc-4851-8ad1-0c63ec9fe68d",
+    "rect": [
+      640,
+      0,
+      128,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

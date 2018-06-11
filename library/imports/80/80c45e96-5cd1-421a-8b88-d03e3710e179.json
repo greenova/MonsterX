@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "1000_common_button_2.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "message1": {
+      "__uuid__": "adb3121b-2621-49cf-8ae4-94669a12e68f"
+    },
+    "message2": {
+      "__uuid__": "117aeb2e-0455-415c-9d80-5d4ae0437a7e"
+    },
+    "message3": {
+      "__uuid__": "3d622ddc-abf5-4009-b5a1-4d1466dbc731"
+    },
+    "message4": {
+      "__uuid__": "ffc3c67b-0479-4442-a8ee-1e95a4e47a63"
+    },
+    "message5": {
+      "__uuid__": "2afbc71d-ddf8-4337-9525-80cc072f4066"
+    }
+  }
+}
